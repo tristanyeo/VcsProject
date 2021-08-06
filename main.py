@@ -17,3 +17,4 @@ if __name__ == '__main__':
 
 print("HELLO TRISTAN")
 print("Hello Alaric happy collaborating")
+print("BAI")
